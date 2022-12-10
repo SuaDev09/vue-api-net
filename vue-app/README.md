@@ -1,4 +1,4 @@
-# vue-api-net
+# vue-app
 
 ## Project setup
 ```
